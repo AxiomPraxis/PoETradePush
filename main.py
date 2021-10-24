@@ -7,7 +7,7 @@ import re
 import logging
 
 # Fill out the APItoken and APIuser environment variables with your
-# Token and User from Pushover.
+# Token and User from Pushover.net.
 
 APItoken = os.environ.get('APIToken')
 APIuser = os.environ.get('APIuser')
