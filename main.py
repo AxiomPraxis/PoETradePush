@@ -9,8 +9,8 @@ import logging
 # Fill out the APItoken and APIuser environment variables with your
 # Token and User from Pushover.
 
-APItoken = os.environ('APIToken')
-APIuser = os.environ('APIuser')
+APItoken = os.environ.get('APIToken')
+APIuser = os.environ.get('APIuser')
 
 # Fill out your path to the Client.txt file
 
