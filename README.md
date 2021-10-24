@@ -1,2 +1,2 @@
 # PoETradePush
- Monitors Path of Exile chat and pushes trade chat messages
+ Monitors Path of Exile chat and pushes trade chat messages using pushover.net
